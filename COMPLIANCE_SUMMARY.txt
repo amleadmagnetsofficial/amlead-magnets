@@ -74,12 +74,12 @@ COMPLIANCE FRAMEWORK ESTABLISHED
    ✅ "Speak With Support" - allowed
    ✅ "Request Help" - allowed
    ✅ Removed: "Buy Now," "Activate Service," "Official Support"
-   ✅ All CTAs point to phone (888) 314-0268
+   ✅ All CTAs point to phone (877) 496-8608
    ✅ Phone greeting: "Thank you for calling AmLead, an independent service
       assistance platform"
 
 8. PHONE & SUPPORT COMPLIANCE
-   ✅ Phone number provided: (888) 314-0268
+   ✅ Phone number provided: (877) 496-8608
    ✅ Call greeting explicitly states:
       "Thank you for calling AmLead, an independent service assistance platform"
    ✅ No provider impersonation
@@ -263,7 +263,7 @@ LAUNCH CHECKLIST
 
 BEFORE GOING LIVE:
 
-□ Verify phone number routing: (888) 314-0268
+□ Verify phone number routing: (877) 496-8608
 □ Test phone greeting in place
 □ Verify HTTPS enabled on all pages
 □ Test mobile responsiveness on all pages

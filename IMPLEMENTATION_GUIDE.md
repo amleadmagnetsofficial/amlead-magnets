@@ -6,7 +6,7 @@
 ## CRITICAL SUCCESS FACTORS
 
 ### 1. Phone Greeting (Non-Negotiable)
-When customers call (888) 314-0268, they MUST hear:
+When customers call (877) 496-8608, they MUST hear:
 > "Thank you for calling AmLead, an independent service assistance platform."
 
 This greeting is documented in:
@@ -287,7 +287,7 @@ Every 3 months:
 
 If you need to verify compliance:
 
-1. **Phone number verification:** Call (888) 314-0268
+1. **Phone number verification:** Call (877) 496-8608
    - Confirms greeting is correct
    - Verifies business legitimacy
 
